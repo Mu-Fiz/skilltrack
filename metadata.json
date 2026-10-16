@@ -1,0 +1,6 @@
+{
+  "name": "SkillTrack",
+  "description": "Platform pemantau kemajuan belajar, roadmap kurikulum skill, manajemen tugas harian, dan sesi fokus belajar terstruktur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
